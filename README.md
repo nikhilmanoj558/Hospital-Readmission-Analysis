@@ -23,6 +23,14 @@ The objective of this project is to explore these patterns using historical hosp
 - Descriptive and comparative analysis
 
 ## Dataset Overview
+## Dataset Source
+
+Dataset: [Hospital Administration Data](https://www.kaggle.com/datasets/shivavashishtha/hospital-administration-data)
+
+Source: Kaggle  
+Uploader: shivavashishtha
+
+The dataset was used for educational and analytical purposes. The original dataset's licence is listed as unknown on Kaggle.
 
 The cleaned dataset contains **48,911 patient encounters**.
 
