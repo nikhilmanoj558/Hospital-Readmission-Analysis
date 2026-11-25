@@ -101,8 +101,11 @@ These are areas for further investigation, not proven interventions from this an
 
 ## Project Files
 
-- `Hospital_Readmission_Analysis.xlsx` — Excel workbook containing the cleaned data, PivotTables, PivotCharts, and dashboard.
+- [Case Study Report](Case_Study_Report.docx) — Detailed analysis, findings, and recommendations.
+- [Dashboard PDF](Hospital_Readmission_Dashboard.pdf) — Exported dashboard.
+- [Dashboard Preview](dashboard.png) — Dashboard screenshot.
 
+Note: The Excel analysis workbook is not included because the source dataset's redistribution licence is unknown.
 ## Conclusion
 
 This project demonstrates how Excel-based data cleaning, PivotTables, PivotCharts, and dashboard development can be used to investigate hospital readmission patterns and communicate findings in a business-oriented format.
