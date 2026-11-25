@@ -1,5 +1,5 @@
 # Hospital Readmission Analysis
-![Hospital Readmission Dashboard](dashboard.png)
+![Hospital Readmission Dashboard](Dashboard.png)
 
 ## Project Overview
 
